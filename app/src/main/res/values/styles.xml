@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        08
+        <!--
+09
+            Theme customizations available in newer API levels can go in
+10
+            res/values-vXX/styles.xml, while customizations related to
+11
+            backward-compatibility can go here.
+12
+        -->
+        13
+    </style>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
