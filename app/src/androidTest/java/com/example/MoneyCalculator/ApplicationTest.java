@@ -1,4 +1,4 @@
-package com.example.jsonparser;
+package com.example.MoneyCalculator;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

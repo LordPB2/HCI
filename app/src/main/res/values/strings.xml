@@ -5,12 +5,10 @@
     <string name="EUR">EUR</string>
     <string name="Result">Result</string>
     <string name="convert">Convert</string>
-
-
-
+    <string name="To">To:</string>
     <string name="hello_world" >Hey keep smiling</string>
-
     <string name="currency_prompt">Choose a currency</string>
+
     <string-array name="currency_arrays">
         <item>AUD</item>
         <item>BGN</item>
@@ -24,8 +22,8 @@
         <item>MXN</item>
         <item>RUB</item>
         <item>NZD</item>
+    </string-array>
 
-   </string-array>
     <string name="title_activity_splash">SplashActivity</string>
 
 
