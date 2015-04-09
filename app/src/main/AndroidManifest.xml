@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.MoneyCalculator"
+    package="com.uniWien_PeterBoros.MoneyCalculator"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -24,7 +24,7 @@
         android:theme="@style/AppTheme"
         android:icon="@drawable/icon" >
         <activity
-            android:name="com.example.MoneyCalculator.MainActivity"
+            android:name="com.uniWien_PeterBoros.MoneyCalculator.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
 
@@ -33,7 +33,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.MoneyCalculator.SplashActivity"
+            android:name="com.uniWien_PeterBoros.MoneyCalculator.SplashActivity"
             android:label="Money Calculator" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

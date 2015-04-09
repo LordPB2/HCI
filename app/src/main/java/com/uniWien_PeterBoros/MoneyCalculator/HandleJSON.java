@@ -1,4 +1,4 @@
-package com.example.MoneyCalculator;
+package com.uniWien_PeterBoros.MoneyCalculator;
 
 /**
  * Created by Peter Boros on 24.3.2015.
@@ -29,6 +29,7 @@ public class HandleJSON {
     private String RUB = "RUB";
     private String NZD = "NZD";
     private String urlString = null;
+
 
     public volatile boolean parsingComplete = true;
 

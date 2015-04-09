@@ -1,4 +1,4 @@
-package com.example.MoneyCalculator;
+package com.uniWien_PeterBoros.MoneyCalculator;
 
 import android.os.Bundle;
 import android.app.Activity;
